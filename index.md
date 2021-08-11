@@ -1,6 +1,6 @@
 # Put the Bear on the Chair!
 
-![teaser](teaser.png)
+![teaser](/putbearonchair/assets/teaser.png)
 
 ## Author
 [Hongtao Wu](https://hongtaowu67.github.io), Xin Meng, [Sipu Ruan](https://ruansp.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
