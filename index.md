@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Put the Bear on the Chair!
 
-You can use the [editor on GitHub](https://github.com/ChirikjianLab/putbearonchair/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
+In this letter, we study the problem of autonomously placing a teddy bear on a previously unseen chair for sitting. To achieve this goal, we present a novel method for robots to imagine the sitting pose of the bear by physically simulating a virtual humanoid agent sitting on the chair. We also develop a framework which leverages motion planning to plan SE(2) motions for a humanoid robot to walk to the chair and whole-body motions to put the bear on it, respectively. Furthermore, to cope with the cases where the chair is not in an accessible pose for placing the bear, a human-robot interaction (HRI) framework is introduced in which a human follows language instructions given by the robot to rotate the chair and help make the chair accessible. We implement our method with a robot arm and a humanoid robot. We calibrate the proposed system with 3 chairs and test on 12 previously unseen chairs extensively in both accessible and inaccessible poses. Results show that our method enables the robot to autonomously put the teddy bear on the 12 unseen chairs with a very high success rate. The HRI framework is also shown to be very effective in changing the accessibility of the chair.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Links
+- Arxiv
+- Video
+- Code and data will be available
 
-### Markdown
+## Author
+[Hongtao Wu](hongtaowu67.github.io), Meng Xin, [Sipu Ruan](https://ruansp.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Department of Mechanical Engineering, National University of Singapore
 
-```markdown
-Syntax highlighted code block
+Laboratory for Computational Sensing and Robotics (LCSR), Johns Hopkins University
 
-# Header 1
-## Header 2
-### Header 3
+## Introductory Video
 
-- Bulleted
-- List
+## Supplementary Video
 
-1. Numbered
-2. List
+### Chair in Accessible Pose
 
-**Bold** and _Italic_ and `Code` text
+### Chair in Inaccessible Pose + Human Obeys
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChirikjianLab/putbearonchair/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Chair in Inaccessible Pose + Human Disobeys
