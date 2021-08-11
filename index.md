@@ -1,5 +1,9 @@
 # Put the Bear on the Chair!
 
+<p align="center">
+<img src="figure2-min.png" width=100% alt="Drawing">
+</p>
+
 ## Author
 [Hongtao Wu](https://hongtaowu67.github.io), Xin Meng, [Sipu Ruan](https://ruansp.github.io), [Gregory Chirikjian](https://www.eng.nus.edu.sg/me/staff/chirikjian-gregory-s/)
 
