@@ -5,7 +5,7 @@ In this letter, we study the problem of autonomously placing a teddy bear on a p
 
 ## Links
 - Arxiv
-- Video
+- [Video](https://youtu.be/ZNospDRPlBM)
 - Code and data will be available
 
 ## Author
