@@ -20,13 +20,20 @@ In this letter, we study the problem of autonomously placing a teddy bear on a p
 
 ## Supplementary Videos
 
-### Chair in Accessible Pose
-#### Sky Blue Chair
+### 1. Chair in Accessible Pose (Sky Blue Chair)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WaNnRbhFApI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Step Stool
+### 2. Chair in Accessible Pose (Step Stool)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2jnCZa_MO0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Chair in Inaccessible Pose + Human Obeys
+### 3. Chair in Inaccessible Pose + Human Obeys (Yellow Chair)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MX8Aj8Bg5rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Chair in Inaccessible Pose + Human Disobeys
+### 4. Chair in Inaccessible Pose + Human Obeys (White Blue Chair)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xrTUDoihLIM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 5. Chair in Inaccessible Pose + Human Disobeys (Red Chair)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/R-jOvorQZn0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### 6. Chair in Inaccessible Pose + Human Disobeys (Chair Improvised with Books and Boxes)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8cG_5i5EAEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
