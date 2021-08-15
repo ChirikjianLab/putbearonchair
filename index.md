@@ -21,10 +21,10 @@ In this letter, we study the problem of autonomously placing a teddy bear on a p
 ## Supplementary Videos
 
 ### Chair in Accessible Pose
-1. Sky Blue Chair
+#### Sky Blue Chair
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WaNnRbhFApI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-2. Step Stool
+#### Step Stool
 <iframe width="640" height="360" src="https://www.youtube.com/embed/2jnCZa_MO0E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Chair in Inaccessible Pose + Human Obeys
