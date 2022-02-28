@@ -12,11 +12,11 @@ In this letter, we study the problem of autonomously placing a teddy bear on a p
 
 ## Links
 - [Arxiv](https://arxiv.org/abs/2108.05539)
-- [Video](https://youtu.be/ZNospDRPlBM)
+- [Video](https://youtu.be/HWcFx4XyktM)
 - Code and data will be available
 
 ## Introductory Video
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZNospDRPlBM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HWcFx4XyktM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Supplementary Videos
 
