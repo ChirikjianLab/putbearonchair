@@ -37,3 +37,7 @@ In this letter, we study the problem of autonomously placing a teddy bear on a p
 
 ### 6. Chair in Inaccessible Pose + Human Disobeys (Chair Improvised with Books and Boxes)
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8cG_5i5EAEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Related Links
+- [Is that a chair？](https://chirikjianlab.github.io/chairimagination/)
+- [Prepare the chair for the bear!](https://chirikjianlab.github.io/preparechair/)
